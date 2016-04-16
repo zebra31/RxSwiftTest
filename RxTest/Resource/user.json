@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "name": "bob",
+        "friends": [
+            {
+                "id": "2",
+                "name": "alis"
+            },
+            {
+                "id": "3",
+                "name": "john"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "alis",
+        "friends": [
+            {
+                "id": "1",
+                "name": "bob"
+            },
+            {
+                "id": "3",
+                "name": "john"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "name": "john",
+        "friends": [
+            {
+                "id": "1",
+                "name": "bob"
+            },
+            {
+                "id": "2",
+                "name": "alis"
+            }
+        ]
+    }
+]

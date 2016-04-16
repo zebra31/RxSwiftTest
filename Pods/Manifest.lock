@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (3.3.1)
+  - Argo (3.0.1)
+  - Realm (0.98.8):
+    - Realm/Headers (= 0.98.8)
+  - Realm/Headers (0.98.8)
+  - RxCocoa (2.4):
+    - RxSwift (~> 2.4)
+  - RxSwift (2.4)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - Alamofire (>= 1.0)
+  - Argo (>= 1.0)
+  - Realm (>= 0.9)
+  - RxCocoa (>= 1.0)
+  - RxSwift (>= 1.0)
+  - SwiftyJSON (>= 1.0)
+
+SPEC CHECKSUMS:
+  Alamofire: 369bc67b6f5ac33ded3648d7bd21c5bfb91c2ecc
+  Argo: 22c5d62b7967020a641468c91dc9488bea9523b8
+  Realm: 0e293bb62999730599efc3048896bbd4f2e43bcd
+  RxCocoa: 7d6cd877de99f5640306b3d6cf87f580c1d91b61
+  RxSwift: 67b9ef4e8b34fb394e200e754c6a09cc16559f94
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+
+COCOAPODS: 0.38.2
