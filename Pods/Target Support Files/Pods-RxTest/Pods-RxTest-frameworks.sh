@@ -57,6 +57,7 @@ if [[ "$CONFIGURATION" == "Debug" ]]; then
   install_framework 'Pods-RxTest/Realm.framework'
   install_framework 'Pods-RxTest/RxCocoa.framework'
   install_framework 'Pods-RxTest/RxSwift.framework'
+  install_framework 'Pods-RxTest/SwiftyBeaver.framework'
   install_framework 'Pods-RxTest/SwiftyJSON.framework'
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
@@ -65,5 +66,6 @@ if [[ "$CONFIGURATION" == "Release" ]]; then
   install_framework 'Pods-RxTest/Realm.framework'
   install_framework 'Pods-RxTest/RxCocoa.framework'
   install_framework 'Pods-RxTest/RxSwift.framework'
+  install_framework 'Pods-RxTest/SwiftyBeaver.framework'
   install_framework 'Pods-RxTest/SwiftyJSON.framework'
 fi

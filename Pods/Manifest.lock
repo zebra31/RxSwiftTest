@@ -7,6 +7,7 @@ PODS:
   - RxCocoa (2.4):
     - RxSwift (~> 2.4)
   - RxSwift (2.4)
+  - SwiftyBeaver (0.4.2)
   - SwiftyJSON (2.3.2)
 
 DEPENDENCIES:
@@ -15,6 +16,7 @@ DEPENDENCIES:
   - Realm (>= 0.9)
   - RxCocoa (>= 1.0)
   - RxSwift (>= 1.0)
+  - SwiftyBeaver (>= 0.3)
   - SwiftyJSON (>= 1.0)
 
 SPEC CHECKSUMS:
@@ -23,6 +25,7 @@ SPEC CHECKSUMS:
   Realm: 0e293bb62999730599efc3048896bbd4f2e43bcd
   RxCocoa: 7d6cd877de99f5640306b3d6cf87f580c1d91b61
   RxSwift: 67b9ef4e8b34fb394e200e754c6a09cc16559f94
+  SwiftyBeaver: 3eced9aabe4f10b975453cc1baaa2d523a5eaeae
   SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
 
 COCOAPODS: 0.38.2

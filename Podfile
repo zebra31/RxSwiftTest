@@ -10,5 +10,6 @@ target 'RxTest' do
     pod 'Realm', '>= 0.9'
     pod 'Argo', '>= 1.0'
     pod 'SwiftyJSON', '>= 1.0'
+    pod 'SwiftyBeaver', '>= 0.3'
 
 end
